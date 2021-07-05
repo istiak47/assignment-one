@@ -1,0 +1,159 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.tabs{
+    text-align: center;
+    background-color: transparent;
+    display: flex;
+    padding-left: 65px;
+    margin-bottom: 10px;
+}
+.tabs a{
+    color: black;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 10px;
+}
+.section-two{
+    display: flex;
+    margin-bottom: 80px;
+}
+.second-part{
+    width: 50%;
+    padding-left: 5%;
+}
+.second-part img{
+    width: 80%;
+}
+.skip{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white; 
+    font-weight: 700;
+    border-radius: 25px;
+}
+.bg-img-sec-two{
+    background-image: url(section-two-bg.jpg);
+    background-repeat: no-repeat;
+}
+
+.section-three{
+    display: flex;
+    margin-bottom: 80px;
+}
+.thrid-part{
+    width: 50%;
+    padding-right: 5%;
+}
+.thrid-part img{
+    width: 40%;
+    padding-left: 10%;
+    padding-right: 0%;
+    padding-top: 10%;
+}
+.section-three h2{
+    font-size: 40px;
+}
+
+.section-three p{
+    text-align: left;
+    padding-right: 5%;
+}
+.bg-img-sec-three{
+   background-image: url(section-three-bg.jpg);
+    background-repeat: no-repeat;
+} 
+
+
+#section-four{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#section-five{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.pics{
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 30px;
+    
+}
+.pics h1{
+    text-align: center;
+}
+.pics text{
+    align-content: center justify;
+}
+.vertical{
+    vertical-align: middle;
+    
+}
+.text-decoration{
+    text-decoration: none;
+    color: black;
+}
+
+.box{
+    border-right: 7px solid;
+    border-image: linear-gradient(rgb(224, 224, 224),rgb(255, 255, 255)) ;
+    width: 21%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px rgb(77, 77, 77);
+}
+
+
+#section-six{
+    display: flex;
+    margin-bottom: 80px;    
+}
+.social-media{
+    
+    text-align: center;
+    padding-left: 13%;
+    margin: 2%;
+    
+}
+.box-two{
+    border-image: linear-gradient(rgb(224, 224, 224),rgb(255, 255, 255)) ;
+    width: 85%;
+    margin-left: 100px;
+    
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px rgb(77, 77, 77);
+}
+
+
+.footer{
+    background-color:#0b0e17;
+    height: 150px;
+    text-align: center;
+    padding-top: 2%;
+}
+.food{
+    color: #fb9048;
+}
+.network{
+    color: #5b5b5b;
+}
+.footer p{
+    color: #eff1f0;
+}
