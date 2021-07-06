@@ -4,7 +4,8 @@ body{
 }
 .tabs{
     text-align: center;
-    background-color: orangered;
+    background-image: linear-gradient(orange, tomato);
+    
     display: flex;
     padding-left: 65px;
     margin-bottom: 10px;
