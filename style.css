@@ -110,7 +110,7 @@ h1{
 }
 
 .box{
-    border-right: 7px solid;
+    border-right: 5px solid;
     border-image: linear-gradient(rgb(224, 224, 224),rgb(255, 255, 255)) ;
     width: 21%;
     margin-left: 5%;
