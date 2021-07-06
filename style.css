@@ -47,6 +47,7 @@ h1{
 .bg-img-sec-two{
     background-image: url(section-two-bg.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .section-three{
@@ -72,8 +73,12 @@ h1{
     padding-right: 5%;
 }
 .bg-img-sec-three{
-   background-image: url(section-three-bg.jpg);
+    background-image: url(Frame\ 57.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+    
 } 
 
 
